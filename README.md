@@ -111,6 +111,8 @@ The script will generate two output files:
 
 ![Example-1 of Claude](./examples/claude-example-2.jpg)
 
+![Example-2 of Claude](./examples/claude-example-1.jpg)
+
 
 ## Acknowledgements
 
